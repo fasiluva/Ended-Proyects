@@ -1,4 +1,0 @@
-Tierra,Estado solido,No explosivo,Presencia alta 
-Madera,Estado solido,No explosivo,Presencia media
-Aire,Estado gaseoso,No explosivo,Presencia alta
-Metal,Estado solido,No explosivo,Presencia baja
