@@ -1,6 +1,6 @@
 # cd C:\Users\USUARIO\Documents\GitHub\Facu\Facu-main\Python
 
-import MaterialDivider as sm
+import MaterialDividerModule as sm
 import re
 
 materials_list = open("SandboxFile.txt", "rt")
