@@ -1,8 +1,7 @@
 # cd C:\Users\USUARIO\Documents\GitHub\Facu\Facu-main\Python
 
-import SandboxModule as sm
+import MaterialDivider as sm
 import re
-import json
 
 materials_list = open("SandboxFile.txt", "rt")
 
